@@ -1,0 +1,45 @@
+/* Media Query */
+
+/* Media Queries - Full Responsive */
+/* Mobile */
+/*
+@media only screen and (max-width: 480px) {
+     body {
+         background-color: rgb(243, 176, 198);
+}  
+*/
+/* Tablet */
+/* @media only screen and (min-width: 481px) and (max-width: 968px) {
+    body {
+        background-color: #bd75e7;
+    }
+}
+/* Desktop */
+/* @media only screen and (min-width: 969px) {
+    body {
+        background-color: var(--white);
+    }
+} */
+
+/*
+$small: 480px;
+$medium: 481px;
+$large: 969px;
+
+
+
+
+// `sm` applies to x-small devices (portrait phones, less than 576px)
+@media (max-width: 576px) { 
+    padding: 2rem;
+ }
+
+// `md` applies to small devices (landscape phones, less than 768px)
+@media (max-width: 768px) { ... }
+
+// `lg` applies to medium devices (tablets, less than 992px)
+@media (max-width: 992px) { ... }
+
+// `xl` applies to large devices (desktops, less than 1200px)
+@media (max-width: 1200px) { ... }
+*/
